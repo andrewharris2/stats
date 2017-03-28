@@ -1,6 +1,7 @@
 Class StatsInfo.Main {
 
     ClassMethod Print() {
+	    write "Print stats"
                 do ..PrintClasses()
                 do ..PrintMethods()
         }
