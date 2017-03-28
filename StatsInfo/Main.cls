@@ -8,7 +8,6 @@ Class StatsInfo.Main {
         
     ClassMethod PrintClasses() {
 <<<<<<< HEAD
-    	write "Atelier stats"
 =======
 	    write "Github stats"
 >>>>>>> branch 'master' of https://github.com/andrewharris2/stats
